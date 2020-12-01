@@ -2,7 +2,9 @@
 
 input sound;
 
-if (sound==FAN);       ***Verify which input user say***
+***Verify which input user say***
+
+if (sound==FAN);       
   print ("FAN IS ON");
   
 else if (sound==FANoff);
