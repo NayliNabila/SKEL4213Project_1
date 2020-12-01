@@ -1,4 +1,4 @@
-input sound
+input sound;
 
 if (sound==FAN);
   print ("FAN IS ON");
